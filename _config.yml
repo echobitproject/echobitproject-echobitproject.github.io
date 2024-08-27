@@ -1,6 +1,6 @@
 title: ECHO-BIT
 logo: /assets/img/logo.png
-description: Website for the ECHO-BIT project.
-show_downloads: true
+description: Website of the ECHO-BIT project.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

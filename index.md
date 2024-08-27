@@ -4,7 +4,9 @@ layout: default
 
 Welcome to the website of the Echo CHambers, Opinions and Behaviors in Italy - ECHO-BIT project financed by the European Union – Next Generation EU, within the 2022 PRIN call.
 
-The project involves the University of Trento (Mario Quaranta) and the University of Torino.
+The project is joint between the University of Trento (Mario Quaranta) and the University of Torino.
+
+## Brief description
 
 Social and political scientists developed the concept of political echo chamber, defined as a relational or media space in which people are exposed to and communicate(almost) exclusively information congruent with their beliefs.
 
