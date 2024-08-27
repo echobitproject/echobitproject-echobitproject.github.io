@@ -41,4 +41,5 @@ The data collection has been concluded in mid July (2024) and the data analysis 
 We will present the project at the 2024 Conference of the Italian Political Science Association in Trieste.
 
 
+---------------------------------------
 ![Octocat](assets/img/finaziamento.jpg)
