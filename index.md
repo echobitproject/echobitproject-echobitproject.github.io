@@ -4,7 +4,7 @@ layout: default
 
 Welcome to the website of the Echo CHambers, Opinions and Behaviors in Italy - ECHO-BIT project financed by the European Union – Next Generation EU, within the 2022 PRIN call.
 
-The project is joint between the University of Trento (Mario Quaranta) and the University of Torino.
+The project is joint between the University of Trento (Mario Quaranta) and the University of Torino (Moreno Mancosu).
 
 ## Brief description
 
@@ -17,12 +17,17 @@ In political terms, an echo chamber is a situation in which partisan citizens te
 This represents a relevant threat to the democratic process. In a well-functioning democracy, being exposed to opposing opinions can allow citizens to have a wider knowledge of political issues to make informed decisions and form their opinions.
 
 Nevertheless, the literature on echo chambers has three major gaps this project aims at filling:
+
 1) The echo chamber hypothesis has been mainly tested in a few contexts, mainly in the US. Therefore, the ECHO-BIT project will extend this test to a country, Italy, that presents specific, understudied political and media-related characteristics.
+
 2) In the literature, different realms of patterns of information acquisition - offline (via interpersonal communication) and online (via social media) - are usually analyzed separately, not comparing the two spheres. The ECHO-BIT project will compare systematically the homogeneity of interpersonal networks and online interactions to investigate how these networks are related to each other.
+
 3) Few works have dealt with the consequences that heterogeneity in online and offline information have for political opinions and behaviors. The ECHO-BIT project will systematically test how different levels of information homogeneity are related to specific opinions (such as generalized and institutional trust, democratic attitudes, affective polarization, and policy preferences) and behaviors (voting, political and social participation).
 
 To achieve these goals, the project will collect a unique dataset in Italy during the 2024 European Elections that consists of:
+
 1) A fine-grained collection of passive metering data (browsing history/social media activity) about citizens’ media and interpersonal political exposure.
+
 2) A longitudinal survey data on the same individuals regarding opinions, behaviors and exposure to homogeneous networks in real life.
 
 The ECHO-BIT project aims at increasing the knowledge on crucial issues of opinion formation and deepening the understanding of the effect of media partisan slant on political attitudes and behaviors.
