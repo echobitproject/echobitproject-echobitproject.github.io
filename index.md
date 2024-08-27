@@ -34,6 +34,9 @@ The ECHO-BIT project aims at increasing the knowledge on crucial issues of opini
 
 ## Data
 
+The data collection has been concluded in mid July (2024) and the data analysis has just started. The data we collected also include the content of the main TV and radio programs dealing with political issues (as political talk shows, news, etc.). In the following months we will share some preliminary results here.
+
 ## News
 
+We will present the project at the 2024 Conference of the Italian Political Science Association in Trieste.
 
