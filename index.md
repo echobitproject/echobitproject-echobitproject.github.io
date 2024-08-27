@@ -8,11 +8,11 @@ The project is joint between the University of Trento (Mario Quaranta) and the U
 
 ## Brief description
 
-Social and political scientists developed the concept of political echo chamber, defined as a relational or media space in which people are exposed to and communicate(almost) exclusively information congruent with their beliefs.
+Social and political scientists developed the concept of political echo chamber, defined as a relational or media space in which people are exposed to and communicate (almost) exclusively information congruent with their beliefs.
 
 Citizens can limit their exposure to inconsistent sources of information (from media outlets or individuals/groups). In some cases, they can “isolate” themselves, interacting only with people holding similar opinions, pushing them to being embedded in an echo chamber.
 
-In political terms, an echo chamber is a situation in which partisan citizens tend to be(almost) uniquely exposed to partisan media outlets and discussants. According to theories on echo chambers, being embedded in such environments make people impermeable to opposite views (when they are able to reach them).
+In political terms, an echo chamber is a situation in which partisan citizens tend to be (almost) uniquely exposed to partisan media outlets and discussants. According to theories on echo chambers, being embedded in such environments make people impermeable to opposite views (when they are able to reach them).
 
 This represents a relevant threat to the democratic process. In a well-functioning democracy, being exposed to opposing opinions can allow citizens to have a wider knowledge of political issues to make informed decisions and form their opinions.
 
@@ -31,5 +31,9 @@ To achieve these goals, the project will collect a unique dataset in Italy durin
 2) A longitudinal survey data on the same individuals regarding opinions, behaviors and exposure to homogeneous networks in real life.
 
 The ECHO-BIT project aims at increasing the knowledge on crucial issues of opinion formation and deepening the understanding of the effect of media partisan slant on political attitudes and behaviors.
+
+## Data
+
+## News
 
 
