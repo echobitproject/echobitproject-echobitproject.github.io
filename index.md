@@ -4,7 +4,7 @@ layout: default
 
 Welcome to the website of the Echo CHambers, Opinions and Behaviors in Italy - ECHO-BIT project financed by the European Union – Next Generation EU, within the 2022 PRIN call.
 
-The project is joint between the University of Trento (Mario Quaranta) and the University of Torino (Moreno Mancosu).
+The project is joint between the University of Trento -- [Mario Quaranta](https://webapps.unitn.it/du/it/Persona/PER0017607/Curriculum) and the University of Torino -- [Moreno Mancosu](https://www.didattica-cps.unito.it/do/docenti.pl/Alias?moreno.mancosu#tab-profilo).
 
 ## Brief description
 
@@ -35,6 +35,12 @@ The ECHO-BIT project aims at increasing the knowledge on crucial issues of opini
 ## Team
 
 Mario Quaranta
+
+<!---
+Mario Quaranta is an Associate Professor at the Department of Sociology and Social Research at the University of Trento. After earning his PhD in Political Science from the Italian Institute of Human Sciences in Florence in 2013, he conducted research at institutions such as LUISS in Rome, the Scuola Normale Superiore, and the European University Institute, where he was a Max Weber Fellow. His research focuses on political behavior and public opinion. He has mostly published on political participation, voting, citizens' attitudes towards democracy, political trust, political communication both on a comparative perspective and on Italy.
+-->
+
+
 
 Moreno Mancosu
 
