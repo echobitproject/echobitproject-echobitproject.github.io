@@ -34,21 +34,24 @@ The ECHO-BIT project aims at increasing the knowledge on crucial issues of opini
 
 ## Team
 
+### Trento Unit
+
 Mario Quaranta
 
 <!---
 Mario Quaranta is an Associate Professor at the Department of Sociology and Social Research at the University of Trento. After earning his PhD in Political Science from the Italian Institute of Human Sciences in Florence in 2013, he conducted research at institutions such as LUISS in Rome, the Scuola Normale Superiore, and the European University Institute, where he was a Max Weber Fellow. His research focuses on political behavior and public opinion. He has mostly published on political participation, voting, citizens' attitudes towards democracy, political trust, political communication both on a comparative perspective and on Italy.
 -->
 
+Alessandra Malorgio
 
+Fabio Torreggiani
+
+### Torino Unit
 
 Moreno Mancosu
 
 Giuliano Bobba
 
-Alessandra Malorgio
-
-Fabio Torreggiani
 
 ## Data
 
