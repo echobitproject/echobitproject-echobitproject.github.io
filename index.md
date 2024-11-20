@@ -4,7 +4,7 @@ layout: default
 
 Welcome to the website of the Echo CHambers, Opinions and Behaviors in Italy - ECHO-BIT project financed by the European Union – Next Generation EU, within the 2022 PRIN call.
 
-The project is joint between the University of Trento -- [Mario Quaranta](https://webapps.unitn.it/du/it/Persona/PER0017607/Curriculum) and the University of Torino -- [Moreno Mancosu](https://www.didattica-cps.unito.it/do/docenti.pl/Alias?moreno.mancosu#tab-profilo).
+The project is joint between the University of Trento -- [Mario Quaranta](https://webapps.unitn.it/du/it/Persona/PER0017607/Curriculum) -- and the University of Torino -- [Moreno Mancosu](https://www.didattica-cps.unito.it/do/docenti.pl/Alias?moreno.mancosu#tab-profilo).
 
 ## Brief description
 
