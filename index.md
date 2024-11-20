@@ -52,7 +52,7 @@ The data collection has been concluded in mid July (2024) and the data analysis 
 
 Our project presentation entitled `Does the quality of media diets influence individuals' truth discernment?' was done at the 2024 Conference of the Italian Political Science Association in Trieste, 12-14/9/2024.
 
-The next presentation will regard the paper `Multimedia political exposure: an integrated analysis of survey and behavioral data' at  `The CS2 Italy Conference', Department of Sociology and Social Research, University of Trento, 15-18/01/2025. 
+The next presentation will regard the paper *Multimedia political exposure: an integrated analysis of survey and behavioral data* at  `The CS2 Italy Conference', Department of Sociology and Social Research, University of Trento, 15-18/01/2025. 
 
 
 ---------------------------------------
