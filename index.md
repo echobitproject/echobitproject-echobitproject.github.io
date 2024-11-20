@@ -32,13 +32,27 @@ To achieve these goals, the project will collect a unique dataset in Italy durin
 
 The ECHO-BIT project aims at increasing the knowledge on crucial issues of opinion formation and deepening the understanding of the effect of media partisan slant on political attitudes and behaviors.
 
+## Team
+
+Mario Quaranta
+
+Moreno Mancosu
+
+Giuliano Bobba
+
+Alessandra Malorgio
+
+Fabio Torreggiani
+
 ## Data
 
 The data collection has been concluded in mid July (2024) and the data analysis has just started. The data we collected also include the content of the main TV and radio programs dealing with political issues (as political talk shows, news, etc.). In the following months we will share some preliminary results here.
 
 ## News
 
-We will present the project at the 2024 Conference of the Italian Political Science Association in Trieste.
+Our project presentation entitled `Does the quality of media diets influence individuals' truth discernment?' was done at the 2024 Conference of the Italian Political Science Association in Trieste, 12-14/9/2024.
+
+The next presentation will regard the paper `Multimedia political exposure: an integrated analysis of survey and behavioral data' at  `The CS2 Italy Conference', Department of Sociology and Social Research, University of Trento, 15-18/01/2025. 
 
 
 ---------------------------------------
