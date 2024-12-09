@@ -36,34 +36,16 @@ The ECHO-BIT project aims at increasing the knowledge on crucial issues of opini
 
 ### Trento Unit
 
-Mario Quaranta
-
-<!---
-Mario Quaranta is an Associate Professor at the Department of Sociology and Social Research of the University of Trento. After earning his PhD in Political Science from the Italian Institute of Human Sciences in Florence in 2013, he conducted research at institutions such as LUISS in Rome, the Scuola Normale Superiore, and the European University Institute, where he was a Max Weber Fellow. His research mainly focuses on political behavior and public opinion. He has mostly published on political participation, voting, citizens' attitudes towards democracy, political trust, political communication both on a comparative perspective and on Italy. His most recent publications can be found, among others, in European Societies, Government & Opposition, Journal and Ethnic Migration Studies, European Sociological Review, South European Society and Politics, European Journal of Communication, and 
-International Journal of Public Opinion Research.
--->
-
-Alessandra Malorgio
-
-<!---
+Mario Quaranta (PI) is an Associate Professor at the Department of Sociology and Social Research of the University of Trento. After earning his PhD in Political Science from the Italian Institute of Human Sciences in Florence in 2013, he conducted research at institutions such as LUISS in Rome, the Scuola Normale Superiore, and the European University Institute, where he was a Max Weber Fellow. His research mainly focuses on political behavior and public opinion. He has mostly published on political participation, voting, citizens' attitudes towards democracy, political trust, political communication in comparative perspective and in Italy. 
 
 Alessandra Malorgio is a research fellow at the Department of Sociology and Social Research of the University of Trento. She has a Master’s degree in Public and Political Communication at the University of Turin with a thesis titled “Emotional Communication in Electoral Campaigns: A Content Analysis of Giorgia Meloni’s Facebook Posts during the 2022 ‘Campagna Balneare’”. Her key areas of interest include political communication, strategies and techniques employed by leaders and politicians in electoral campaigns to build and maintain relationships with the electorate, the role of emotions and storytelling in politicians’ communication strategies through social networks, text analysis through automated procedures, automated content analysis, and sentiment analysis.         
--->
-
-Fabio Torreggiani
-
-<!---
-
-I am currently a PostDoc at the University of Trento, where I am part of a research team working on a PNRR-PRIN project named ECHO-BIT. In this project, we explore whether echo chambers exist in Italian citizens’ media diets using a combination of survey data and passive metering data about individuals’ browsing activity and consumption of TV, radio and newspapers. Previously, I was a Ph.D. Student at Nasp, University of Milan, where I was enrolled in the program called Economic Sociology & Labour Studies, in collaboration with the Collegio Carlo Alberto in Turin. In my PhD, I studied the interplay between misinformation, social norms and institutional trust. During my BA and MA, I studied Political Science (at the University of Bologna and at Sciences Po Toulouse).
-
--->
-
+Fabio Torreggiani is a research fellow at the Department of Sociology and Social Research of the University of Trento. His research studies how the interplay between individual information processing and social mechanisms shapes public discourse. I have worked on misinformation, social norms, institutional trust, populist beliefs, and agenda-setting. I use a combination of survey experiments, regression analysis, scraping, and text analysis techniques. Before being part of the ECHO-BIT team, he was a Ph.D. student in Economic Sociology and Labour Studies at NASP, University of Milan, in collaboration with the Collegio Carlo Alberto in Turin, where he studied why people believe in misinformation using social media posts.
 
 ### Torino Unit
 
-Moreno Mancosu
+Moreno Mancosu is an Associate Professor in the Department of Cultures, Politics, and Society of the University of Turin and an Affiliate at the Collegio Carlo Alberto (Italy). His main research interests focus on electoral behavior, political communication, and quantitative methods. He has published in journals such as Political Communication, European Political Science Review, European Journal of Political Research, The International Journal of Press/Politics, and Political Psychology.
 
-Giuliano Bobba
+Giuliano Bobba is an Associate Professor in the Department of Cultures, Politics, and Society of the University of Turin and an Affiliate at the Collegio Carlo Alberto (Italy). His research interests include political communication, populism, and public opinion. He has published in various journals, including The International Journal of Press/Politics, Journalism Studies, PLOS ONE, European Political Science, and South European Society & Politics. He is also a co-editor of the journal IPS - Italian Political Science.
 
 
 ## Data
